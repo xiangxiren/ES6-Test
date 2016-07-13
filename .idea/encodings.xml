@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ES6/ES6-Class/ES6-类.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ES6/ES6-for.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ES6/ES6-let和const.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ES6/ES6-参数.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ES6/ES6-字符串模板.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ES6/ES6-对象字面量.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ES6/ES6-箭头操作符.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ES6/ES6-解构/ES6-1、数组的解构.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ES6/Es6-Map,Set,WeakMap,WeakSet.js" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
