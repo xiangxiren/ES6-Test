@@ -20,4 +20,4 @@ function sortNumbers() {
 }
 
 // rest参数的写法
-const sortNumbers = (...numbers) => numbers.sort();
+const sortNumbersEx = (...numbers) => numbers.sort();
